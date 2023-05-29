@@ -1,5 +1,5 @@
 welcome to my github profile. 
-i'm currently in the faculty of systems analysis and development
+future gamedev or front-end developer 
 i'm studying english but i'm interested in other languages too 
 <!---
 ranpoluv/ranpoluv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
