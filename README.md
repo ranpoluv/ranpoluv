@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Thamires</h1>
+<h1 align="center"># 💫 About Me:
+i'm Thamires<br>i"m currently learning Python and C</h1>
 <h3 align="center">student systems analysis and development from brazil</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ranpoluv" alt="ranpoluv" /></a> </p>
