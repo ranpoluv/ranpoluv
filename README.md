@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Thamires.</h1>
 <h3 align="center">Estudante de análise e desenvolvimento de sistemas.</h3>
 
-- I’m currently learning **Front-end, Python.**
+- I’m currently learning **Java, Python.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
