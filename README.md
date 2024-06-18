@@ -19,13 +19,3 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/windows/0078D6" height="30" alt="windows8 logo"  />
 </div>
-
-###
-
-<div align="center">
-  <a href="https://twitter.com/IZUKUG0D" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
-  </a>
-</div>
-
-###
